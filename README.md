@@ -6,7 +6,7 @@ A meticulously crafted Windows 11-style mouse cursor set for DAWs, designed to r
 
 [License: CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
-===
+---
 
 ## 简介
 
